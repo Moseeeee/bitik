@@ -7,7 +7,7 @@ from datetime import datetime, timedelta
 from sympy import sympify, solve
 import re
 
-API_TOKEN = '7017976892:AAG5mjQOCmdoBDXSYG69Y3nhejlKnTzSelQ'
+API_TOKEN = '7017976892:AAG8OJ8idFzI_xnQjjwE9-p5xfrCnOtkJc8'
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher(bot=bot)
 
